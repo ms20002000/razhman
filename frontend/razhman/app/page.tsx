@@ -3,7 +3,8 @@ import Link from "next/link";
 
 export default function DashboardPage() {
   return (
-    <div className=" bg-[#02071d] text-white">
+    // <div className=" bg-[#02071d] text-white">
+    <div className="bg-gradient-to-tr from-[#02071d] to-[#04112b] text-white">
 
       {/* Main Layout */}
       <div className="flex">
